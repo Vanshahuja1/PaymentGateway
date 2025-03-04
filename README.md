@@ -1,8 +1,8 @@
 # Payment Gateway integration in Django
-Major payment gateways (PayPal and Razorpay) integrated in Django.
+Major payment gateways Razorpay.
 
 ## Requirements -
- - I have used Python 3.8 and Django 3.0
+ - I have used Python 3.8 
  
 ## Gateways Done -
  - ## PayPal -
